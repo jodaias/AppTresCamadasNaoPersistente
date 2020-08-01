@@ -1,0 +1,6 @@
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\bin\Debug\DatabaseSQL.dll
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\bin\Debug\DatabaseSQL.pdb
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.csprojAssemblyReference.cache
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.csproj.CoreCompileInputs.cache
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.dll
+D:\PESSOAIS\C#\AppTresCamadas\DatabaseSQL\obj\Debug\DatabaseSQL.pdb

@@ -1,0 +1,6 @@
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\bin\Debug\BusinessModel.dll
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\bin\Debug\BusinessModel.pdb
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\obj\Debug\BusinessModel.dll
+D:\PESSOAIS\C#\AppTresCamadasNaoPersistente\BusinessModel\obj\Debug\BusinessModel.pdb
